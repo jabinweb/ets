@@ -97,7 +97,7 @@ async function seedFaculty() {
         qualification: 'Professor of Theological Studies, Director of Strategic Engagement and Relations',
         specialization: 'Theological Studies, Christian Education',
         experience: 30,
-        bio: 'Prof. Joy John is a professor in the department of Theological Studies and selected courses in Christian Education. He is one of the elders in Hosur Brethren Assembly, a resource person for children's ministry, a guest lecturer at graduate level colleges, and prolific speaker at conferences and seminars. His articles have appeared in Christian journals and popular magazines. He has also number of Malayalam Christian songs to his credit. He is married to Juni Joy and they are blessed with three boys, Jonathan, Jabez and Jairus.',
+        bio: 'Prof. Joy John is a professor in the department of Theological Studies and selected courses in Christian Education. He is one of the elders in Hosur Brethren Assembly, a resource person for children\'s ministry, a guest lecturer at graduate level colleges, and prolific speaker at conferences and seminars. His articles have appeared in Christian journals and popular magazines. He has also number of Malayalam Christian songs to his credit. He is married to Juni Joy and they are blessed with three boys, Jonathan, Jabez and Jairus.',
         dateOfJoining: new Date('1991-01-01'), // After MTh
         education: [
           { degree: 'BTh', institution: 'South India Baptist Bible College', year: 1988 },
